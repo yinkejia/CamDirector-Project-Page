@@ -15,7 +15,7 @@ This is the repository that contains source code for the [CamDirector website](h
 > <sup>*</sup> Equal contribution <br>
 > CVPR 2026
 
-If you find Nerfies useful for your work please cite:
+If you find our work useful for your work please cite:
 ```
 @article{yin2026camdirector,
   title={CamDirector: Towards Long-Term Coherent Video Trajectory Editing}, 
